@@ -1,4 +1,4 @@
-""" asks fro input and then changes it to bee latin then prints goodbye in 
+""" asks for input and then changes it to bee latin then prints goodbye in 
     bee latin aswell
     Written fo Test 2 
     Author: Tom Arnold 

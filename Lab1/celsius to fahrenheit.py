@@ -4,5 +4,5 @@ def days_in_years(number_of_years):
     days_in_years = number_of_years * 365
     return days_in_years
 
-print(number_of_years(2))
-print(number_of_years(15))
+print(days_in_years(2))
+print(days_in_years(15))
